@@ -1,9 +1,9 @@
 # I'm just an average coding and middle east enjoyer 🪬👩🏽‍💻🤓
 ![AmyStas's GitHub stats](https://github-readme-stats.vercel.app/api?username=amystas&theme=calm_pink&show_icons=true) 
  #### Get to know me :3 
- ![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=pinterest&link=https%3A%2F%2Fpl.pinterest.com%2Famystaspins%2F)
- ![Spotify](https://img.shields.io/badge/-Spotify-%23DB954?style=flat&logo=spotify&logoColor=white&link=https%3A%2F%2Fopen.spotify.com%2Fuser%2Fameliastaszczyk)
- ![Goodreads](https://img.shields.io/badge/-Goodreads-372213?style=flat&logo=goodreads&logoColor=white&link=https%3A%2F%2Fwww.goodreads.com%2Famystas)
+ [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=pinterest)](https://pinterest.com/amystaspins/)
+ [![Spotify](https://img.shields.io/badge/-Spotify-%23DB954?style=flat&logo=spotify&logoColor=white)](https://open.spotify.com/user/ameliastaszczyk)
+[![Goodreads](https://img.shields.io/badge/-Goodreads-372213?style=flat&logo=goodreads&logoColor=white&link=https%3A%2F%2Fwww.goodreads.com%2Famystas)](https://www.goodreads.com/amystas)
 ## Languages & Frameworks 🌟 
 ### Web development 🛜
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
