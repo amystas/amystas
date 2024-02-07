@@ -15,6 +15,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Dotnet](https://img.shields.io/badge/-EF%20Core-darkslateblue?style=for-the-badge&logo=dotnet)
 ![Angular](https://img.shields.io/badge/-angular-red?style=for-the-badge&logo=angular)
+![VUE.js](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 ### Databases 💾
 ![Static Badge](https://img.shields.io/badge/-Mariadb-midnightblue?style=for-the-badge&logo=mariadb)
