@@ -1,4 +1,4 @@
-# I'm just an average coding enjoyer 🪬👩🏽‍💻
+# I'm just an average coding enjoyer 👩🏽‍💻
 ![AmyStas's GitHub stats](https://github-readme-stats.vercel.app/api?username=amystas&theme=calm_pink&show_icons=true) 
  #### Get to know me :3 
  [![Pinterest](https://img.shields.io/badge/-Pinterest-BD081C?style=flat&logo=pinterest)](https://pinterest.com/amystaspins/)
